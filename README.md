@@ -21,12 +21,14 @@
 
 ## Footprinting
 * Definición 
-1.[Footprinting](https://en.wikipedia.org/wiki/Footprinting)
-2.[What is footprinting](http://searchsecurity.techtarget.com/definition/footprinting)
-3.[Flu Project](http://www.flu-project.com/2011/03/la-biblia-del-footprinting-i-de-vii_8926.html)
-4.[Flu Project](http://www.flu-project.com/2015/07/la-biblia-del-footprinting-xv-de-xx.html)
-5.[NetworkTools](http://network-tools.com/)
+1. [Footprinting](https://en.wikipedia.org/wiki/Footprinting)
+2. [What is footprinting](http://searchsecurity.techtarget.com/definition/footprinting)
+3. [Flu Project](http://www.flu-project.com/2011/03/la-biblia-del-footprinting-i-de-vii_8926.html)
+4. [Flu Project](http://www.flu-project.com/2015/07/la-biblia-del-footprinting-xv-de-xx.html)
+5. [NetworkTools](http://network-tools.com/)
+
 * [Whois](https://whois.icann.org/es)
+
 
 ## Análisis Web
 ## Pentesting
