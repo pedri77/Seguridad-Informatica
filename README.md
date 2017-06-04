@@ -79,6 +79,8 @@
 
 ## Forense
 
+[Definición](https://www.welivesecurity.com/la-es/2013/08/12/en-que-consiste-analisis-forense-de-informacion/)
+
 
 ## Enlaces
 
