@@ -76,10 +76,18 @@
 
 ## Postexplotación
 
+[Cheat Sheet Shell Inversos](http://www.hackplayers.com/2015/08/cheat-sheet-de-shell-inversos-reverse.html)
+[Shells HackPlayers](http://www.hackplayers.com/search/?q=shells)
+[Rootkit](http://www.hackplayers.com/2017/05/recopilatorio-de-rootkits.html)
+[C99](http://www.pyxsoft.com/portal/c99-shell/)
+[US-CERT](https://www.us-cert.gov/ncas/alerts/TA15-314A)
+[WEB SHELLS](https://github.com/JohnTroony/php-webshells)
+
 
 ## Forense
 
 [Definición](https://www.welivesecurity.com/la-es/2013/08/12/en-que-consiste-analisis-forense-de-informacion/)
+
 
 
 ## Enlaces
