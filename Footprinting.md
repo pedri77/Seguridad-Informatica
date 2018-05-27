@@ -1,4 +1,5 @@
-#Footprinting
+## Footprinting
+
 La definición de footprinting es la etapa de un test de intrusión en la que el atacante recolecta todo tipo de información 
 sobre su objetivo. Su fuente de recolección pueden ser variadas, tomándose como referencia aquellas que se encuentran en 
 fuentes abiertas como Internet.
@@ -7,7 +8,7 @@ descubrir acgivos de nuestro objetivo y organziación que más adelante pueden c
 Dentro del Footprinting el primer paso que debemos realizar es el objetivo donde vamos a obtener la información y descubrir
 los activos.
 Así deberíamos realizar las siguientes acciones:
-- Realizar visitas a los sitios web de la organización, servicios y aplicaciones con el fin de encontrar errores y saber 
+* Realizar visitas a los sitios web de la organización, servicios y aplicaciones con el fin de encontrar errores y saber 
 la superficie de información que tiene el objetivo
 - Encontrar a través de los motores de búsqueda ficheros que puedan darnos información como es el caso de robots.txt
 - Descargarse las páginas web enontradas para descrubir cuestiones que se nos hayan pasado en el primer análisis.
