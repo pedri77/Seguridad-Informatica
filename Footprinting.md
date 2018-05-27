@@ -12,6 +12,7 @@ Así deberíamos realizar las siguientes acciones:
 la superficie de información que tiene el objetivo
 - Encontrar a través de los motores de búsqueda ficheros que puedan darnos información como es el caso de robots.txt
 - Descargarse las páginas web enontradas para descrubir cuestiones que se nos hayan pasado en el primer análisis.
+'$ wget https://www.google.es'
 - Una buena fuente de información son los DORKS para consultar a los motoroes de búsqueda. Se trata de vulnerabilidades que 
 se pueden encontrar indexadas en Google o en otros buscadores y que pueden ser debilidades del objetivo a analizar.
 Herramienta: 
@@ -28,4 +29,4 @@ subdominios, ... Toda esta información la podemos conseguir con servicios del t
 - Tipo de alojamiento en el que están alojadas las webs o recursos externos de la empresa.
 - Conseguir los emails es muy importante, los cuales pueden ser usados para labores de ingenería social, phishing u otro tipo
 de técnicas más avanzadas.
-- 
+- (continuará)
