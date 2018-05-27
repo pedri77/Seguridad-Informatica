@@ -14,7 +14,8 @@ la superficie de información que tiene el objetivo
 - Descargarse las páginas web enontradas para descrubir cuestiones que se nos hayan pasado en el primer análisis.
 - Una buena fuente de información son los DORKS para consultar a los motoroes de búsqueda. Se trata de vulnerabilidades que 
 se pueden encontrar indexadas en Google o en otros buscadores y que pueden ser debilidades del objetivo a analizar.
-Herramienta: GHDB Google Hacking DataBase
+Herramienta: 
+<https://www.exploit-db.com/google-hacking-database/>
 - El dominio es una parte muy importante a estidiar o los dominios de la organización.
 - También es recomendable realizar una visita a archive.org para conocer el histórico de los activos que estamos analizando.
 - Una forma interesante de conocer la embergadura de una organización es conocer los dominios y subdominios que posee. Una 
